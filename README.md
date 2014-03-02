@@ -8,7 +8,7 @@ follows:
 cd $HOME
 sudo apt-get install -y git-core
 git clone https://github.com/gondolio/startup-class-setup
-./setup/setup.sh   
+./startup-class-setup/setup.sh
 ```
 
 See also http://github.com/startup-class/dotfiles and
